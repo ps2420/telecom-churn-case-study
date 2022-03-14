@@ -26,6 +26,7 @@ Customers which are likely to churn will starting decreasing rhe recharge amount
 
 ## Conclusions
 Features which impacts the churning of customers most is
+- local_any_8
 - total_ic_mou_8
 - roam_any_8
 - local_any_7
@@ -35,8 +36,6 @@ Features which impacts the churning of customers most is
 - sachet_3g_7
 - last_day_rch_amt_8
 - local_any_6
-- monthly_3g_8
-
 
 ## Technologies Used
 - Python 3.2.1, Panda, Seaborn, Matplot lib, sklearn & statsmodel
