@@ -25,8 +25,17 @@ Customers which are likely to churn will starting decreasing rhe recharge amount
 - The jypter note book explains the relation ship between different variables and summarizes the keysteps required for model building
 
 ## Conclusions
-Features which impacts the sales price most are listed below
-- 
+Features which impacts the churning of customers most is
+- total_ic_mou_8
+- roam_any_8
+- local_any_7
+- data_used_8
+- monthly_3g_6
+- roam_any_7
+- sachet_3g_7
+- last_day_rch_amt_8
+- local_any_6
+- monthly_3g_8
 
 
 ## Technologies Used
@@ -39,7 +48,6 @@ Features which impacts the sales price most are listed below
 Give credit here.
 - This project was inspired by upgrad online learning community https://www.upgrad.com/
 - This project was based on linear regressioin module.
-
 
 ## Contact
 Created by [@ps2420] - feel free to contact me!
